@@ -4,14 +4,14 @@
 
 o	This app was created to be used as a tool to users who need a secure space to track their events with a notification feature. The requirements were the following:
 
-	Login
+Login
    1. Create a new login.
    2. Duplicate login names are validated.
    3. Non existing username fails with a message
    4. Invalid credentials fail with a message
    5. Valid credentials login
    
-	Database
+Database
    1. Can view all items (recycler view)
    2. Can add new item
    3. Can edit existing item
@@ -19,7 +19,7 @@ o	This app was created to be used as a tool to users who need a secure space to 
    5. Cannot add item that already exists (same name, description, and date) with a message
    6. Log in as different user...perform operations for only that user (e.g. cannot see other users information)
   
- 	Notifications
+Notifications
    1. No notification if setting is disabled
    2. Notification if setting is enabled
    3. Notification setting saved per user.
